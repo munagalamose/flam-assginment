@@ -1,3 +1,7 @@
+![image alt](https://github.com/munagalamose/flam-assginment/blob/01a3911d0dfb4dc39108d870b9e4101369791059/Screenshot%202025-06-05%20103125.png)
+
+
+
 # HR Performance Dashboard
 
 A modern HR dashboard built with Next.js, Tailwind CSS, and TypeScript for tracking employee performance, managing bookmarks, and viewing detailed insights.
