@@ -107,6 +107,7 @@ The application uses Zustand for state management with the following features:
 
 ![image alt](https://github.com/munagalamose/flam-assginment/blob/01a3911d0dfb4dc39108d870b9e4101369791059/Screenshot%202025-06-05%20103125.png)
 ![image alt](https://github.com/munagalamose/flam-assginment/blob/daf9fcc3c1e4fa04901ad1fc8d1c342b9ac1cfce/Screenshot%202025-06-05%20103225.png)
+![image alt](https://github.com/munagalamose/flam-assginment/blob/eae4f567b84c0b03da67754e9335cf04b44b4e27/Screenshot%202025-06-05%20103324.png)
 
 ## Contributing
 
